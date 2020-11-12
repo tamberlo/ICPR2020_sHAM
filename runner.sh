@@ -1,3 +1,5 @@
+#!/bin/bash
+
 python3 -m venv venv_compr
 source venv_compr/bin/activate
 
